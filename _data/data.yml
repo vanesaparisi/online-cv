@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Vanesa Alejandra Parisi
     tagline: Project Manager | Digital Marketing
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png
 
     # Sidebar links
     email: vanesaparisi@gmail.com
@@ -27,18 +27,10 @@ sidebar:
       - idiom: Italian
         level: Basic
 
-    interests:
-      - item: Cooking
-
-      - item: Reading
-
-      - item: TV series & Movies
-
 career-profile:
     title: About Me
     summary: |
-      Hello, I’m Vanesa and I have more than 7 years of job experience in different industries regarding project management. I consider myself a proactive, responsible person, and always in a constant search to improve myself in my area of knowledge and proficiency. 
-
+Hello, I’m Vanesa and I have more than 7 years of job experience in different industries regarding project management. I consider myself a proactive, responsible person, and always in a constant search to improve myself in my area of knowledge and proficiency. 
 education:
     - degree: Social Communication
       university: National University of San Luis
@@ -46,9 +38,8 @@ education:
       details: |
         The thesis defense was approved with "Special Mention" on October 13, 2011. Thesis title: "Television consumption and its incidence on adolescents" A study of social/cultural practices in two secondary schools in the city from San Luis, Argentina. 
         Orientation: Media and Multimedia Production. Average: 8.24
-        
+
 experiences:
-    experiences:
     - role: Technical Account Manager
       time: July 2021 - Present
       company: Hogarth Argentina
@@ -98,14 +89,19 @@ experiences:
     Technical Suites: Microsoft Office (Excel, Word, and PowerPoint).
 
 skills:
-    title: Skills
+    title: Skills &amp; Proficiency
 
     toolset:
       - name: Project Management tools
+
       - name: CMS
+
       - name: Email marketing
+
       - name: GitHub
+
       - name: Web Design
+
       - name: Digital Marketing
 
 footer: >
