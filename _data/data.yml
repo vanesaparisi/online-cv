@@ -1,30 +1,20 @@
 sidebar:
   about: true
   education: true
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Vanesa Alejandra Parisi
+  tagline: Project Manager | Marketing Digital
   avatar: profile.png
-  email: hello@webjeda.com
-  phone: 012 345 6789
-  website: blog.webjeda.com
-  linkedin: alandoe
-  xing: alandoe
-  github: sharu725
-  telegram: null
-  gitlab: null
-  bitbucket: null
-  twitter: '@webjeda'
-  stack-overflow: null
-  codewars: null
-  goodreads: null
-  pdf: 'http://www.africau.edu/images/default/sample.pdf'
+  email: vanesaparisi@gmail.com
+  phone: +54911 3779-6903
+  linkedin: vanesaparisi
+  github: vanesaparisi
   languages:
-    - idiom: English
-      level: Native
-    - idiom: French
-      level: Professional
     - idiom: Spanish
-      level: Professional
+      level: Native
+    - idiom: English
+      level: Upper intermediate (C1)
+    - idiom: Italian
+      level: Basic
   interests:
     - item: Climbing
       link: null
