@@ -5,7 +5,7 @@ sidebar:
   tagline: Project Manager | Marketing Digital
   avatar: profile.png
   email: vanesaparisi@gmail.com
-  phone: +54911 3779-6903
+  phone: +54911-3779-6903
   linkedin: vanesaparisi
   github: vanesaparisi
   languages:
@@ -42,18 +42,18 @@ experiences:
         - Upload of assets in Zonza system.
         - Creation of website reports on a monthly and quarterly basis.
         - Providing operational support where necessary.
-      Technical Suites: Zonza (Asset management system created by Hogarth)
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: 'Google, London'
+        - Technical Suites: Zonza (Asset management system created by Hogarth)
+  - role: Project Manager
+    time: August 2015 - July 2021
+    company: Insite Latin America
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Insite Latin America is an Argentinian company that offers multiple services for several clients such as L’Oreal, Telecom, Mercado Pago, BBVA, Showcase Cinemas, etcetera.
+        - Creation of new emails templates and website for Showcase Cinemas.
+        - Test, upload, and schedule emails, consumer journeys, and landing pages on both Marketing Cloud and other platforms.
+        - Reporting of email marketing campaigns.
+        - Preparation of texts for campaigns and responsible for the supervision of online advertising designs for BBVA.
+        - Communication between all the suppliers.
+        - Technical Suites: Salesforce Marketing Cloud; WordPress; CMS; Native loyalty system; Email Marketing.
   - role: UI Developer
     time: 2012 - 2014
     company: 'Amazon, London'
