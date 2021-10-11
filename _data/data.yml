@@ -1,5 +1,5 @@
 sidebar:
-  about: true
+  about: false
   education: true
   name: Vanesa Alejandra Parisi
   tagline: Project Manager | Marketing Digital
@@ -16,44 +16,22 @@ sidebar:
     - idiom: Italian
       level: Basic
   interests:
-    - item: Climbing
+    - item: Reading
       link: null
-    - item: Snowboarding
+    - item: Movies & TV Series
       link: null
     - item: Cooking
       link: null
 career-profile:
-  title: Career Profile
+  title: About Me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Hello, I’m Vanesa and I have more than 7 years of job experience in different industries regarding project management. I consider myself a proactive, responsible person, and always in a constant search to improve myself in my area of knowledge and proficiency.
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Social Communication
+    university: National University of San Luis
+    time: 2005 - 2011
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      The thesis defense was approved with "Special Mention" on October 13, 2011. Thesis title: "Television consumption and its incidence on adolescents" A study of social/cultural practices in two secondary schools in the city from San Luis, Argentina. Orientation: Media and Multimedia Production. Average: 8.24
 experiences:
   - role: Lead Developer
     time: 2015 - Present
