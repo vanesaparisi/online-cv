@@ -3,106 +3,190 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Vanesa Alejandra Parisi
-    tagline: Project Manager | Digital Marketing
-    avatar: profile.png
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: vanesaparisi@gmail.com
-    phone: +54 11 3779 6903
-    linkedin: vanesaparisi
-    github: vanesaparisi
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Spanish
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
         level: Professional
 
-      - idiom: Italian
-        level: Basic
+      - idiom: Spanish
+        level: Professional
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
 
 career-profile:
-    title: About Me
+    title: Career Profile
     summary: |
-Hello, I’m Vanesa and I have more than 7 years of job experience in different industries regarding project management. I consider myself a proactive, responsible person, and always in a constant search to improve myself in my area of knowledge and proficiency. 
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: Social Communication
-      university: National University of San Luis
-      time: 2005 - 2011
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        The thesis defense was approved with "Special Mention" on October 13, 2011. Thesis title: "Television consumption and its incidence on adolescents" A study of social/cultural practices in two secondary schools in the city from San Luis, Argentina. 
-        Orientation: Media and Multimedia Production. Average: 8.24
-
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Technical Account Manager
-      time: July 2021 - Present
-      company: Hogarth Argentina
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-        Hogarth is an agency of the WPP group based in London, UK. I work on the Buenos Aires branch, offering services for local and abroad customers.
-        - Managing the content for a multinational automaker and several clients in the pharmaceutical field.
-        - Upload of assets in the same system.
-        - Creating monthly and quarterly reports
-        - Providing operational support where necessary.
-      Technical Suites: Zonza (Asset management system created by Hogarth)
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    - role: Project Manager
-      time: Aug 2015 - July 2021
-      company: Insite Latin America
-      details: |
-        Insite Latin America is an Argentinian company that offers multiple services for several clients such as L’Oreal, Telecom, Mercado Pago, BBVA, Showcase Cinemas, etcetera.
-        - Worked in the BBVA pitch and win the account.
-        - Create the email template and website for Showcase Cinemas.
-        - Participation in the initial kickoff of the L’Oréal CRM for both countries (Argentina and Uruguay).
-        - Sending and programming email marketing from several platforms.
-        - QA, testing, and uploading of emails, consumer journeys, and landing pages in Marketing Cloud.
-        - Coordination of multidisciplinary teams to create websites for Mercado Pago.
-        - Production of texts for campaigns and also in charge of the supervision for the designs for Google Adwords and Facebook platforms for BBVA.
-        - Revision of software/web life cycle on different instances.
-        - Communication between all the suppliers.
-      Technical Suites: Salesforce Marketing Cloud; WordPress; CMS; Native loyalty system; Email Marketing.
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-    - role: Account Executive
-      time: May 2015 - Aug 2015
-      company: Lion Agency
-      details: |
-        Lion Agency is an Argentinian company that has also branches in the US and Brazil. They have several clients but I worked in the account of the airline LAN Argentina.
-        - Development of the methodologies that improve the standardization of the email marketing of LAN Corporate & Mundo LAN.
-        - Update all the websites' belongings to LAN Argentina, Corporate, and Mundo LAN.
-        - Sending and programming email marketing campaigns with all the correspondent cycles on emBlue and its platform.
-        - Reporting of email marketing campaigns.
-      Technical Suites: CMS; Email Marketing.
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - role: Content Assistant
-      time: Nov 2012 - Apr 2014
-      company: BajaLibros.com
-      details: |
-      Pioneering eBook online store in Argentina for the LATAM market that has a vast digital library on Spanish ebooks.
-      - Responsible for the 70% growth in the portfolio of publishers and independent authors in the time that I was on the job.
-      - Communication between suppliers of BajaLibros (publishers/independent authors and big publishers chains).
-      - Monitoring with publishers/authors to facilitate the materials' prior conversion to electronic formats.
-    Technical Suites: Microsoft Office (Excel, Word, and PowerPoint).
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Project Management tools
+      - name: Python & Django
+        level: 98%
 
-      - name: CMS
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: Email marketing
+      - name: Angular
+        level: 98%
 
-      - name: GitHub
+      - name: HTML5 & CSS
+        level: 95%
 
-      - name: Web Design
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: Digital Marketing
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
