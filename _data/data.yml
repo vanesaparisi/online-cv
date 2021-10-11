@@ -74,13 +74,18 @@ experiences:
         - Monitoring with publishers/authors to facilitate the materials' prior conversion to electronic formats.
         - Technical Suites: Microsoft Office (Excel, Word, and PowerPoint).
 skills:
-  title: Skills
+  title: Skills &amp; Proficiency
   toolset:
     - name: CMS
+    level: 100%
     - name: Project Management tools
+    level: 100%
     - name: GitHub
+    level: 50%
     - name: Web Design
+    level: 50%
     - name: Digital Marketing
+    level: 100%
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a
   href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
