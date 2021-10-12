@@ -2,19 +2,19 @@
 
 # Site Settings
 title: My CV Online
-url: 'http://webjeda.com'
+url: 'https://vanesaparisi.github.io/online-cv/'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: A beautiful Jekyll theme for creating resume
+description: ¡Hola! Mi nombre es Vanesa y este es mi CV online.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: UA-83979019-1
+analytics: G-466JRFMCMZ
 
 # Sass/SCSS
 sass:
