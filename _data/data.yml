@@ -25,7 +25,7 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    Hello, I’m Vanesa and I have more than 7 years of job experience in different industries regarding project management. I consider myself a proactive, responsible person, and always in a constant search to improve myself in my area of knowledge and proficiency.
+    Hello, I am Vanesa and I have more than 7 years of work experience in different industries regarding project management. I consider myself as a proactive and responsible person, who is always in a constant search to improve knowledge as well as proficiency.
 education:
   - degree: Social Communication
     university: National University of San Luis
@@ -37,7 +37,7 @@ experiences:
     time: July 2021 - Present
     company: Hogarth Argentina
     details: |
-      Hogarth is an agency of the WPP group based in London, UK. I work on the Buenos Aires branch, offering services for local and abroad customers.
+      Hogarth is an agency of the WPP group based in London, UK. I work in the Buenos Aires branch, offering services for both national and international clients.
         - Managing the content for a multinational automaker and several clients in the pharmaceutical field.
         - Upload of assets in Zonza system.
         - Creation of website reports on a monthly and quarterly basis.
@@ -47,9 +47,9 @@ experiences:
     time: August 2015 - July 2021
     company: Insite Latin America
     details: |
-      Insite Latin America is an Argentinian company that offers multiple services for several clients such as L’Oréal, Telecom, Mercado Pago, BBVA, Showcase Cinemas, etcetera.
+      Insite Latin America is an Argentinian company that offers multiple services for several clients such as L’Oréal, Telecom, Mercado Pago, BBVA, Showcase Cinemas, among others.
         - Creation of new emails templates and website for Showcase Cinemas.
-        - Test, upload, and schedule emails, consumer journeys, and landing pages on both Marketing Cloud and other platforms.
+        - Test, upload, and schedule emails, consumer journeys, and landing pages on the Salesforce Marketing Cloud and other email platforms.
         - Reporting of email marketing campaigns.
         - Coordination of multidisciplinary teams to create websites for Mercado Pago.
         - Preparation of texts for campaigns and responsible for the supervision of online advertising designs for BBVA.
@@ -93,6 +93,9 @@ skills:
 
       - name: Microsoft Suite
         level: 85%
+
+      - name: CRM
+        level: 70%
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a
   href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
