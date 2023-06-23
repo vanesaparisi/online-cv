@@ -25,7 +25,7 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    Hello, I am Vanesa and I have more than 7 years of work experience in different industries regarding project management. I consider myself as a proactive and responsible person, who is always in a constant search to improve knowledge as well as proficiency.
+    Hello, I am Vanesa and I count with over 8 years of project management experience in diverse industries, I am a proactive and responsible professional committed to continuous growth. I approach projects with dedication, delivering high-quality results while prioritizing efficiency, effective communication, and collaborative teamwork.
 education:
   - degree: Social Communication
     university: National University of San Luis
@@ -33,46 +33,55 @@ education:
     details: |
       The thesis defense was approved with "Special Mention" on October 13, 2011. Thesis title: "Television consumption and its incidence on adolescents" A study of social/cultural practices in two secondary schools in the city from San Luis, Argentina. Orientation: Media and Multimedia Production. Average: 8.24
 experiences:
-  - role: Technical Account Manager
-    time: July 2021 - Present
+- role: Technical Account Manager
+    time: February 2022 - Present
     company: Hogarth Argentina
     details: |
-      Hogarth is an agency of the WPP group based in London, UK. I work in the Buenos Aires branch, offering services for both national and international clients.
-        - Managing the content for a multinational automaker and several clients in the pharmaceutical field.
-        - Upload of assets in Zonza system.
-        - Creation of website reports on a monthly and quarterly basis.
-        - Providing operational support where necessary.
-        - Technical Suites: Zonza (Asset management system created by Hogarth)
+      Hogarth is a London-based agency within the WPP group. I contribute my services to the Buenos Aires branch, catering to clients from both domestic and international markets.
+        - Working as PM for one of the most important technology companies worldwide.
+        - Accountable for planning, designing, and overseeing projects for the localization of client websites.
+        - Assisting in the onboarding process of new PMs, providing feedback, and offering support as required.
+        - Actively collaborating with the team to enhance and optimize the existing processes.
+        - Conducting testing, uploading, and scheduling of emails for DM (Direct Marketing) clients.
+  - role: Technical Account Manager
+    time: July 2021 - February 2022
+    company: Hogarth Argentina
+    details: |
+        - Managing content for a multinational automaker as well as multiple clients in the pharmaceutical industry.
+        - Uploading assets into the Zonza system.
+        - Creating monthly and quarterly reports for websites.
+        - Offering operational support as needed.
+        Technical Suites: Zonza (Asset management system created by Hogarth); JIRA.
   - role: Project Manager
     time: August 2015 - July 2021
     company: Insite Latin America
     details: |
-      Insite Latin America is an Argentinian company that offers multiple services for several clients such as L’Oréal, Telecom, Mercado Pago, BBVA, Showcase Cinemas, among others.
-        - Creation of new emails templates and website for Showcase Cinemas.
-        - Test, upload, and schedule emails, consumer journeys, and landing pages on the Salesforce Marketing Cloud and other email platforms.
-        - Reporting of email marketing campaigns.
-        - Coordination of multidisciplinary teams to create websites for Mercado Pago.
-        - Preparation of texts for campaigns and responsible for the supervision of online advertising designs for BBVA.
-        - Communication among all the suppliers.
-        - Technical Suites: Salesforce Marketing Cloud; WordPress; CMS; Native loyalty system; Email Marketing.
+      Insite Latin America is an Argentinian company that provides a wide range of services to various clients, including L'Oréal, Telecom, Mercado Pago, BBVA, Showcase Cinemas, and others.
+      - Creating new email templates and websites for Showcase Cinemas.
+      - Conducting testing, uploading, and scheduling of emails, consumer journeys, and landing pages using Salesforce Marketing Cloud and other email platforms.
+      - Generating reports on the performance of email marketing campaigns.
+      - Coordinating multidisciplinary teams to develop websites for Mercado Pago.
+      - Crafting campaign texts and overseeing online advertising designs for BBVA.
+      - Facilitating communication among all suppliers involved.
+      Technical Suites: Salesforce Marketing Cloud; WordPress; CMS; Native loyalty system; Email Marketing.
   - role: Account Executive
     time: May 2015 - August 2015
     company: Lion Agency
     details: |
-      Lion Agency is an Argentinian company that has also branches in the US and Brazil. They have several clients but I worked in the account of the airline LAN Argentina.
-        - Development of the methodologies that improve the standardization of the email marketing of LAN Corporate & Mundo LAN.
-        - Update all the websites' belongings to LAN Argentina, Corporate, and Mundo LAN.
-        - Sending and scheduling email marketing campaigns in emBlue and its native platforms.
-        - Reporting of email marketing campaigns.
-        - Technical Suites: CMS; Email Marketing.
+      Lion Agency is an Argentinian company with branches in the US and Brazil. While working there, I specifically handled the LAN Argentina airline account.
+      - Developing methodologies to enhance the standardization of LAN Corporate and Mundo LAN's email marketing.
+      - Updating all websites associated with LAN Argentina, Corporate, and Mundo LAN. 
+      - Executing and scheduling email marketing campaigns using emBlue and other platforms.
+      - Reporting on the performance of email marketing campaigns.
+      Technical Suites: CMS; Email Marketing.
   - role: Content Assistant
     time: November 2012 - April 2014
     company: BajaLibros.com (Grupo Vi-Da)
     details: |
-      Pioneering eBook online store in Argentina for the LATAM market that has a vast digital library on Spanish ebooks.
-        - Responsible for the 70% growth in the portfolio of publishers and independent authors in the time that I was on the job.
-        - Communication between suppliers of BajaLibros (publishers/independent authors and big publishers chains).
-        - Monitoring with publishers/authors to facilitate the materials' prior conversion to electronic formats.
+      I worked for a pioneering eBook online store in Argentina catering to the LATAM market. Our platform boasted a vast digital library of Spanish eBooks.
+        - Successfully drove a 70% growth in the portfolio of publishers and independent authors.
+        - Facilitated communication between BajaLibros and suppliers, including publishers, independent authors, and major publishing chains.
+        - Monitored and collaborated with publishers and authors to streamline the conversion of materials into electronic formats.
         - Technical Suites: Microsoft Office (Excel, Word, and PowerPoint).
 skills:
   title: Skills &amp; Proficiency
